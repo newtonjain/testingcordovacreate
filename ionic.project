@@ -1,0 +1,8 @@
+{
+  "name": "$projectname$",
+  "app_id": "",
+   "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ]
+}
